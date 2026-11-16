@@ -1,0 +1,7 @@
+En este repositorio se desarrolló el caso número 1 de la gestión universitaria, en donde se pretende demostrar los conocimientos de la asignatura , mediante la creación de una base de datos en SQL server management studio 22 que responda a reglas y preguntas de negocio.
+
+La creación del proyecto comprende el modelo entidad relación, el modelo relacional, el diccionario de datos, los scripts que comprenden la creación de la base de datos, las tablas, las restricciones, datos semilla y las consultas establecidas (donde dentro de la carpeta evidencias reposan los resultados de cada consulta ).
+
+El proyecto abarca y respeta las normas respecto a la creación de una base de datos y sus buenas practicas respectivamente (que incluyen la desde la integridad referencial, hasta la normalización). Esto se demuestra resolviendo relaciones con tablas puentes, conservando la atomicidad dentro de cada columna, estableciendo restricciones adecuadas para cada fila y limitando el dominio de los datos de las entidades, por ejemplo.
+
+Para la solución del caso, se utilizó inteligencia artificial para la creación de los datos semilla, asi mismo para resolver relaciones de muchos a muchos de tablas que no parecian sencillas a simple vista (como la tabla prerequisito que se autoreferencia ), y finalmente para optimizar el proceso de graficado (ya que agilizo el procedimiento de escribir el codigo dentro de mermaid para la construcción del modelo ER).
