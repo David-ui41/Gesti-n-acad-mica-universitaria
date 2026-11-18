@@ -1,4 +1,4 @@
-﻿|codigo\_estudiante|nombre|apellido|correo\_institucional|nombre\_programa|facultad|
+﻿|codigo\_estudiante|nombre|apellido|correo\_institucional|nombre\_programa|Facultad|
 |---|---|---|---|---|---|
 |EST\-2026\-0001|María|Apellido1|estudiante1@universidad\.edu\.co|Programa Profesional en Área 1|Facultad de Ciencias de la Salud|
 |EST\-2026\-0010|Santiago|Apellido10|estudiante10@universidad\.edu\.co|Programa Profesional en Área 10|Facultad de Ingeniería|
